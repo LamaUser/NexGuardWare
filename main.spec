@@ -5,7 +5,7 @@ a = Analysis(
     ['main.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('C:\\Users\\rober\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\flask', 'flask'), ('C:\\Users\\rober\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\requests', 'requests'), ('C:\\Users\\rober\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\bs4', 'bs4')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
